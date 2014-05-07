@@ -1,0 +1,6 @@
+Starry Night, Vincent van Gogh, 1889, 10000000.02
+Don Quixote, Pablo Picasso, 1955, 5000000000
+La montagne Sainte-Victoire, Paul Cezanne, 1889, 4500000
+Frida Kahlo, Imogen Cunningham, 1931, 8000000
+Young Hare, Albrecht Durer, 1502, 999999999.95
+The Thinker, Auguste Rodin, 1889, 1000000000.50
